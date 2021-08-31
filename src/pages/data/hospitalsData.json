@@ -1,0 +1,253 @@
+{
+  "items": [
+    {
+      "title": "ST. Martha's Hospital",
+      "id": "here:pds:place:356tdr1v-021cdf05fe1a453a9f2124eeff3e3182",
+      "resultType": "place",
+      "address": {
+        "label": "ST. Martha's Hospital, Sampangi Rama Nagar, Bengaluru 560027, India",
+        "countryCode": "IND",
+        "countryName": "India",
+        "state": "Karnataka",
+        "county": "Bengaluru",
+        "city": "Bengaluru",
+        "district": "Sampangi Rama Nagar",
+        "postalCode": "560027"
+      },
+      "position": {
+        "lat": 12.97076,
+        "lng": 77.58637
+      },
+      "access": [
+        {
+          "lat": 12.97077,
+          "lng": 77.58639
+        }
+      ],
+      "distance": 488,
+      "categories": [
+        {
+          "id": "800-8000-0159"
+        }
+      ]
+    },
+    {
+      "title": "Mallya Hospital",
+      "id": "here:pds:place:356tdr1v-0a1c39a1306f4046a0d76e1828afc7ba",
+      "resultType": "place",
+      "address": {
+        "label": "Mallya Hospital, Vittal Mallya Road, Ashoka Nagar, Bengaluru 560001, India",
+        "countryCode": "IND",
+        "countryName": "India",
+        "state": "Karnataka",
+        "county": "Bengaluru",
+        "city": "Bengaluru",
+        "district": "Ashoka Nagar",
+        "street": "Vittal Mallya Road",
+        "postalCode": "560001"
+      },
+      "position": {
+        "lat": 12.96769,
+        "lng": 77.59493
+      },
+      "access": [
+        {
+          "lat": 12.96803,
+          "lng": 77.59482
+        }
+      ],
+      "distance": 860,
+      "categories": [
+        {
+          "id": "800-8000-0000"
+        },
+        {
+          "id": "800-8000-0158"
+        },
+        {
+          "id": "800-8000-0159"
+        }
+      ],
+      "contacts": [
+        {
+          "phone": [
+            {
+              "value": "+918022277979"
+            }
+          ],
+          "mobile": [
+            {
+              "value": "+918022221564"
+            }
+          ],
+          "fax": [
+            {
+              "value": "+918022121282"
+            }
+          ],
+          "www": [
+            {
+              "value": "http://www.mallyahospital.net"
+            }
+          ],
+          "email": [
+            {
+              "value": "mallya@giashg01.vsnl.net.in"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Republic Hospital",
+      "id": "here:pds:place:356tdr1v-d742487af5274445b899852b66f64f13",
+      "resultType": "place",
+      "address": {
+        "label": "Republic Hospital, Langford Gardens, Richmond Town, Bengaluru 560025, India",
+        "countryCode": "IND",
+        "countryName": "India",
+        "state": "Karnataka",
+        "county": "Bengaluru",
+        "city": "Bengaluru",
+        "district": "Richmond Town",
+        "subdistrict": "Langford Gardens",
+        "postalCode": "560025"
+      },
+      "position": {
+        "lat": 12.96415,
+        "lng": 77.59799
+      },
+      "access": [
+        {
+          "lat": 12.96416,
+          "lng": 77.59797
+        }
+      ],
+      "distance": 1207,
+      "categories": [
+        {
+          "id": "800-8000-0000"
+        },
+        {
+          "id": "800-8000-0157"
+        },
+        {
+          "id": "800-8000-0158"
+        },
+        {
+          "id": "800-8000-0159"
+        }
+      ],
+      "contacts": [
+        {
+          "phone": [
+            {
+              "value": "+918022211762"
+            },
+            {
+              "value": "+918046808354"
+            }
+          ],
+          "www": [
+            {
+              "value": "HTTPS://WWW.REPUBLICHOSPITAL.IN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Vanivilas Hospital",
+      "id": "here:pds:place:356tdr1t-59db4ec93a3246c5bcf4940ce26b088b",
+      "resultType": "place",
+      "address": {
+        "label": "Vanivilas Hospital, New Tharagupet, Kalasipalyam, Bengaluru 560002, India",
+        "countryCode": "IND",
+        "countryName": "India",
+        "state": "Karnataka",
+        "county": "Bengaluru",
+        "city": "Bengaluru",
+        "district": "Kalasipalyam",
+        "subdistrict": "New Tharagupet",
+        "postalCode": "560002"
+      },
+      "position": {
+        "lat": 12.96244,
+        "lng": 77.57396
+      },
+      "access": [
+        {
+          "lat": 12.96246,
+          "lng": 77.57395
+        }
+      ],
+      "distance": 1491,
+      "categories": [
+        {
+          "id": "800-8000-0000"
+        },
+        {
+          "id": "800-8000-0158"
+        },
+        {
+          "id": "800-8000-0159"
+        }
+      ],
+      "contacts": [
+        {
+          "phone": [
+            {
+              "value": "+918026708395"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "विक्टोरिया हॉस्पिटल",
+      "id": "here:pds:place:356tdr1t-7782433d22eb4d5aaa3d5c57ed3c1df9",
+      "resultType": "place",
+      "address": {
+        "label": "विक्टोरिया हॉस्पिटल, New Tharagupet, Kalasipalyam, Bengaluru 560002, India",
+        "countryCode": "IND",
+        "countryName": "India",
+        "state": "Karnataka",
+        "county": "Bengaluru",
+        "city": "Bengaluru",
+        "district": "Kalasipalyam",
+        "subdistrict": "New Tharagupet",
+        "postalCode": "560002"
+      },
+      "position": {
+        "lat": 12.96305,
+        "lng": 77.57281
+      },
+      "access": [
+        {
+          "lat": 12.96304,
+          "lng": 77.57279
+        }
+      ],
+      "distance": 1593,
+      "categories": [
+        {
+          "id": "800-8000-0159"
+        }
+      ],
+      "contacts": [
+        {
+          "phone": [
+            {
+              "value": "+918026701150"
+            }
+          ],
+          "www": [
+            {
+              "value": "http://www.victoriahospitalbangalore.org"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
